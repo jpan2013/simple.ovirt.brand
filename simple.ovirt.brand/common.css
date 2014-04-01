@@ -109,12 +109,4 @@ popup windows, for instance for creating a new VM */
     border: 0px;
     display: block;
 }
-.obrand_formWidget {
-    color: #333333;
-    font-size: 13px;
-    padding: 0 5px;
-    font-family: Verdana,sans-serif;
-    line-height: 30px;
-    text-align: left;
-    border-radius: 10px;
-}
+
